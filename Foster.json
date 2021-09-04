@@ -1,160 +1,115 @@
-{
-  "wallpapers": [
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri(2).png",
-      "name": "Foster 1",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri(2).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri.png",
-      "name": "Foster 2",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1(1).png",
-      "name": "Foster 3",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1(1).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1(2).png",
-      "name": "Foster 4",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1(2).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1.jpg",
-      "name": "Foster 5",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1.jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1.png",
-      "name": "Foster 6",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri1.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri10.png",
-      "name": "Foster 7",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri10.png"
-    },
-     {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2(1).png",
-      "name": "Foster 8",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2(1).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2(2).png",
-      "name": "Foster 9",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2(2).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2.jpg",
-      "name": "Foster 10",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2.jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2.png",
-      "name": "Foster 11",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri2.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3(1).png",
-      "name": "Foster 12",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3(1).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3(2).png",
-      "name": "Foster 13",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3(2).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3(3).png",
-      "name": "Foster 14",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3(3).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3.jpg",
-      "name": "Foster 15",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3.jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3.png",
-      "name": "Foster 16",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri3.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri4.jpg",
-      "name": "Foster 17",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri4.jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri4.png",
-      "name": "Foster 18",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri4.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri5.jpg",
-      "name": "Foster 19",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri5.jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri5.png",
-      "name": "Foster 20",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri5.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri6(1).png",
-      "name": "Foster 21",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri6(1).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri6.jpg",
-      "name": "Foster 22",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri6.jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri6.png",
-      "name": "Foster 23",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri6.png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri7(1).jpg",
-      "name": "Foster 24",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri7(1).jpg"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri7(1).png",
-      "name": "Foster 25",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri7(1).png"
-    },
-    {
-      "author": "WallBerri",
-      "url": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri7.jpg",
-      "name": "Foster 26",
-      "thumbnail": "https://raw.githubusercontent.com/AndroidInsight/Foster.json/main/%40wallberri7.jpg"
-    }
-  ]
-}
+[
+      {
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+      {
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"collections": "featured,landscapes,people"
+	},
+	{
+		"name": "ShotB",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+		"dimensions": "3200x2560",
+		"collections": "people,city",
+		"downloadable": false
+	},
+	{
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+		"name": "ShotC",
+		"dimensions": "1280x720",
+		"copyright": "Credits to its creator",
+		"collections": "landscapes,city"
+	},
+	{
+		"name": "Wallsplash 1",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Wallsplash 2",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Wallsplash 3",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+		"thumbnail": "https://via.placeholder.com/450",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wallsplash 4",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wallsplash 5",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wallsplash 6",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wallsplash 7",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+		"thumbnail": "https://via.placeholder.com/500",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wallsplash 8",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	}
+]
